@@ -1,5 +1,7 @@
 # genesis
-Codes for maze solving arm 
+Codes for maze solving 2-DOF arm 
 
-This repo contains codes for a 2DOF arm which can solve a given maze.
-We first take a pic of the maze we want to solve then we process it using Maze solver.py.
+This project involves a 2-DOF arm tracing the solution of a given maze.
+
+This project can be split into three different parts the mechanics(the arm) , tronics(arduino and servo) and the image processing part(solving the maze given its image).
+ 
