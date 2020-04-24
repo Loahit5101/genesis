@@ -9,4 +9,12 @@ Below is an example of how we extract the path from a picture of the maze
 
 <img src="Images/maze.jpeg" width="400" height="400">
 
+The extracted information from the picture is displayed
+
+<img src="Images/solved1.png" width="400" height="400">
+<img src="Images/solved2.png" width="400" height="400">
+<img src="Images/solved3.png" width="400" height="400">
+
+
+
  
