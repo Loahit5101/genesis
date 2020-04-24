@@ -7,6 +7,6 @@ This project can be split into three different parts the mechanics(the arm) , tr
 
 Below is an example of how we extract the path from a picture of the maze
 
-<img src="Images/maze.jpeg" width="500">
+<img src="Images/maze.jpeg" width="400">
 
  
