@@ -1,6 +1,6 @@
 # Genesis
 
-Video https://www.youtube.com/watch?v=bDIQAKLgUPg
+Video: https://www.youtube.com/watch?v=bDIQAKLgUPg
 
 Codes for maze solving 2-DOF arm 
 
