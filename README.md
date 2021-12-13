@@ -1,4 +1,7 @@
-# genesis
+# Genesis
+
+Video https://www.youtube.com/watch?v=bDIQAKLgUPg
+
 Codes for maze solving 2-DOF arm 
 
 This project involves a 2-DOF arm tracing the solution of a given maze.
